@@ -11,7 +11,7 @@ We managed to finish the project in one week, and the final result was better th
 My main role, besides helping the team and brainstorming, was to work on the movement of the players, collisions and to build the arena.
 
 ## Tech && Methodologies used
-Java, IntelliJ, Linux, Mac OS, Google Slides, Simple Gfx, Adobe Photoshop, Git.
+Java, IntelliJ, Linux, Mac OS, Simple Gfx, Adobe Photoshop, Git.
 
 ## Authors
 * **Ruben Brandão** - [rvbrd](https://github.com/rvbrd)
