@@ -14,9 +14,11 @@ My main role, besides helping the team and brainstorming, was to work on the mov
 Java, IntelliJ, Linux, Mac OS, Simple Gfx, Adobe Photoshop, Git.
 
 ## Authors
-* **Ruben Brandão** - [rvbrd](https://github.com/rvbrd)
+
+* **Denise Machado** - [denisemachado](https://github.com/DeniseMachado)
 * **João Madeira** - [hattomhub](https://github.com/hattomhub)
 * **Josué Almeida** - [z3ux](https://github.com/z3ux)
-* **Denise Machado** - [denisemachado](https://github.com/DeniseMachado)
 * **Ricardo Dias** - [ricardosnaw](https://github.com/RicardoSnaw)
+* **Ruben Brandão** - [rvbrd](https://github.com/rvbrd)
+
 # Thank you!
