@@ -1,7 +1,7 @@
 # Front-Battle
 A one-week group project developed after classes in our “spare-time”.
 
-# The Idea
+## The Idea
 
 Our idea was to make a PvP game, where the objective is to kill the other player, catching potions that, randomly, spawn in the arena.
 
